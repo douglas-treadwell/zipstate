@@ -1,0 +1,22 @@
+{
+  "name": "zipstate",
+  "main": "zipstate.js",
+  "version": "0.0.1",
+  "authors": [
+    "Douglas Treadwell <douglas.treadwell@gmail.com>"
+  ],
+  "description": "A quick and easy zipcode to state map.",
+  "keywords": [
+    "zipcode",
+    "states",
+    "validation"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
